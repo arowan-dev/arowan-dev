@@ -1,16 +1,13 @@
-## Hi there 👋
+# Alex Rowan
 
-<!--
-**arowan-dev/arowan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer focused on developer tools and infrastructure.
 
-Here are some ideas to get you started:
+Mostly interested in command-line tools, build systems, and performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Working forks
+
+- [GitHub CLI](https://github.com/arowan-dev/cli) — issues, pull requests, and repository workflows from the terminal.
+- [fd](https://github.com/arowan-dev/fd) — fast, practical file search.
+- [fzf](https://github.com/arowan-dev/fzf) — fuzzy finding for files, history, and other terminal input.
+
+These are working forks of upstream projects, kept for experiments and future contributions.
